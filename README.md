@@ -1,5 +1,7 @@
 # CISC-CMPE-351-Adv-DA
 
+- Webscrape.ipynb: Collect the Reddit data using PRAW and Pushshift APIs
+
 # Prepocessing Folder
 - Filtering of submission and comment Reddit data
 - Text cleaning
