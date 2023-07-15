@@ -1,5 +1,4 @@
-# CISC-CMPE-351-Adv-DA
-
+# Data Collection
 - Webscrape.ipynb: Collect the Reddit data using PRAW and Pushshift APIs
 
 # Prepocessing Folder
